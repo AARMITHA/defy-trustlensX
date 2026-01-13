@@ -172,7 +172,13 @@ This project is an **active prototype / research-grade implementation** focused 
 ##  License
 
 This project is provided for educational and research purposes.  
-License details can be added here.
+
+## Collaborators
+AARMITHA A 
+RITIKA 
+AATHIRA A
+PRERNA VENKAT
+AKSHITA
 
 ---
 
